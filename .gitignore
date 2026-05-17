@@ -1,0 +1,20 @@
+# Ignore the .env file that contains environment variables
+.env
+
+# Ignore Python bytecode files and cache directories
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore the .vscode directory if you are using Visual Studio Code
+.vscode/
+
+# ignore data files
+data/
+
+# Igonre virtual environment directories
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
